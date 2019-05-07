@@ -1,0 +1,19 @@
+/* PHASE 2: Notifications */
+    .badge {
+        
+        
+    }
+.circle {
+
+    height: 50px;
+    width: 40px;
+    background-color: blue;
+    border-radius: 50px;
+    left : 0;
+}
+
+.li-badge {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+}
